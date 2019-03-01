@@ -1,2 +1,0 @@
-# bslrpg
-GitHub Pages
